@@ -88,3 +88,15 @@ Based on the analysis from 2019–2024, the assets were ranked by risk-adjusted 
 ├── analysis_summary              # Short Analysis
 ├── README.md                     # Project documentation
 └── risk_return_summary.excel     # Risk Return summary in Excel
+```
+
+## 📬 Contact Information
+
+Thank you for reviewing this project! I am actively seeking opportunities and would love to connect.
+
+| Channel | Details |
+| :--- | :--- |
+| **Name** | Jitesh Jangam |
+| **Email** | `jangamjitesh1@gmail.com` |
+| **LinkedIn** | linkedin.com/in/jitesh-jangam |
+
